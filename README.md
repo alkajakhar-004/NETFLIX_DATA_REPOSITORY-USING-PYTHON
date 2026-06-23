@@ -82,7 +82,8 @@ The Power BI dashboard provides interactive visualizations including:
 -Popularity Comparison
 -Movie Performance Insights
 
-<img width="1336" height="743" alt="Screenshot 2026-06-19 220601" src="https://github.com/user-attachments/assets/21f6e09e-860e-40a4-8c51-3321cc2f2da5" />
+<img width="1163" height="660" alt="Screenshot 2026-06-23 095833" src="https://github.com/user-attachments/assets/22bf528c-55a9-4602-8097-335cd9fcb652" />
+
 
 
 This project demonstrates the complete data analysis workflow, including data cleaning, preprocessing, exploratory data analysis, insight generation, and dashboard creation using Python and Power BI.
