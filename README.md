@@ -8,12 +8,12 @@ This project focuses on analyzing Netflix movie data using Python. The dataset w
 
 
 # TOOL USED
-Python
-Pandas
-NumPy
-Seaborn
-Matplotlib
-Jupyter Notebook
+Python,
+Pandas,
+NumPy,
+Seaborn,
+Matplotlib,
+Jupyter Notebook,
 Power BI
 
 # DATA PREPROCESSING
@@ -82,7 +82,7 @@ The Power BI dashboard provides interactive visualizations including:
 -Popularity Comparison
 -Movie Performance Insights
 
-<img width="1163" height="660" alt="Screenshot 2026-06-23 095833" src="https://github.com/user-attachments/assets/22bf528c-55a9-4602-8097-335cd9fcb652" />
+<img width="1170" height="658" alt="Screenshot 2026-06-23 100404" src="https://github.com/user-attachments/assets/e849cceb-e3b2-43cf-b09a-8ba2e3bc49fd" />
 
 
 
